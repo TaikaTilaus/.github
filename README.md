@@ -1,1 +1,0 @@
-TaikaTilaus on asiakkuuksien, tilauksien ja jakelunhallintajärjestelmä mediataloille
