@@ -1,6 +1,6 @@
-## Hi there 👋
+## TaikaTilaus for media companies
 
-TaikaTilaus is a CRM, subscription and distribution management system for media companies.
+TaikaTilaus is a SaaS software for managing customers, subscriptions, ad sales, distribution and supporting processes.
 
 <!--
 
