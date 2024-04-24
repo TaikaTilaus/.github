@@ -1,5 +1,5 @@
-## TaikaTilaus for media companies
-
+# TaikaTilaus
+SaaS for media companies.
 TaikaTilaus is a SaaS software for managing customers, subscriptions, ad sales, distribution and supporting processes.
 
 <!--
